@@ -13,8 +13,8 @@
 ### ⌨️實作 (Hands-on)
 1. 進入瀏覽器開發者工具，切換到 Sources 分頁，Windows (F12)、MacOS (Option + Command + I)
 2. 打開主程式檔案 main.js
-3. 既然要找計分版，我們可以嘗試搜尋 socre-board 或 path
-4. 我們找到了一行 Code：{ path: "score-board", component: bs }
+3. 既然要找計分版，我們可以嘗試搜尋 score-board 或 path
+4. 我們找到了一行 Code：```{ path: "score-board", component: bs }```
 5. 手動將網址修改為：http://localhost:3000/#/score-board
 
 <br>
